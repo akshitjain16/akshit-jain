@@ -7,27 +7,27 @@ const exp = [
     cardImage: "assets/images/education-page/ShreeLogo.png",
     place: "Shree Cement Ltd.",
     time: "(June 2024 - Aug 2024)",
-    desp: "<li>Gained industry-level skills by automating CRM processes and utilizing low-code technologies.</li><li>Facilitated an efficient inventory management webpage that reduced manual tasks by nearly 90%.</li>",
+    desp: "<li>Developed a comprehensive inventory management system utilizing PHP and MySQL, featuring role-based access control, user authentication, and an intuitive admin panel for managing users, bookings, and meal menus.</li><li>Facilitated an efficient inventory management webpage that reduced manual tasks by nearly 90%.</li>",
     button: "Verify",
-    link: "",
+    link: "https://drive.google.com/file/d/1EdrJ11q4udrsTloiaOfMUALwVLe0eOTw/view?usp=sharing",
   },
   {
-    title: "Marketing Team Member",
+    title: "Marketing",
     cardImage: "assets/images/education-page/AIESEC.png",
     place: "AIESEC in India",
     time: "(Feb 2024 - Sept 2024)",
     desp: "<li>Conducted market research and led innovative on-ground campaigns to foster strategic partnerships.</li><li>Executed impactful projects promoting AIESEC's mission of developing youth leadership and facilitating cross-cultural exchanges.</li>",
     button: "Verify",
-    link: "",
+    link: "https://drive.google.com/file/d/1EahswN8txlfRj8LJedJko6zUzExoG40S/view?usp=sharing",
   },
   {
     title: "Embedded Systems and Robotics Trainee",
     cardImage: "assets/images/education-page/esrc.png",
     place: "MBM University, Jodhpur",
     time: "(June 2023 - Aug 2023)",
-    desp: "<li>Worked on multiple projects involving MATLAB, Arduino Uno, and Raspberry Pi, demonstrating strong commitment and practical skills.</li><li>Honored with a certificate of excellence for outstanding performance among 200 students.</li>",
+    desp: "<li>Worked on multiple projects involving MATLAB, Arduino Uno, and Raspberry Pi, demonstrating strong commitment and practical skills.</li><li>Honored with a certificate of excellence for outstanding performer among 200 students.</li>",
     button: "Verify",
-    link: "",
+    link: "https://drive.google.com/file/d/1Ds4uvNY_7PJxTHsxwPK8H6VTErzU2D0l/view?usp=sharing",
   },
 ];
 
@@ -73,7 +73,7 @@ const volunteershipcards = [
     time: "(2023)",
     desp: "<li>Guided a group of 80 freshmen during the Induction Program, enhancing their transition into university life.</li>",
     button: "Verify",
-    link: "",
+    link: "https://drive.google.com/file/d/1Dv0Fr_sVYr73ugxdjqo_Aww3p_7Eh9QY/view?usp=sharing",
   },
   {
     title: "Coordinator",
@@ -82,7 +82,7 @@ const volunteershipcards = [
     time: "(2023)",
     desp: "<li>Coordinated content and management teams for the annual TechFest, overseeing promotional materials and event logistics.</li><li>Increased community engagement and participation significantly through effective management.</li>",
     button: "Verify",
-    link: "",
+    link: "https://drive.google.com/file/d/1DsYvihE3nMAze-nMtsvP4-2Utf4Olj33/view?usp=sharing",
   },
 ];
 

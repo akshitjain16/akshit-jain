@@ -5,32 +5,29 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [{
         title: "Python",
-        cardImage: "assets/images/education-page/about.png",
-        moocLink: "https://drive.google.com/file/d/1m-KZWFXM5knCO-2afBJDDWbhHZbbCrtv/view?usp=sharing",
-    },
-
-
-    {
-        title: "Introduction to HTML 5",
-        cardImage: "assets/images/education-page/about.png",
-        moocLink: "https://drive.google.com/file/d/1Z3DRSk1ToLvh0-h7Gg6WOUkJicvso80M/view?usp=sharing",
+        cardImage: "assets/images/education-page/python.png",
+        moocLink: "https://drive.google.com/file/d/1EEyDzeDI36JHuQWsX9Q2cEM1gAMpjEF4/view?usp=sharing",
     },
     {
-        title: "Introduction to CSS 3",
-        cardImage: "assets/images/education-page/about.png",
-        moocLink: "https://drive.google.com/file/d/1Z3DRSk1ToLvh0-h7Gg6WOUkJicvso80M/view?usp=sharing",
+        title: "MERN Stack",
+        cardImage: "assets/images/education-page/mern.png",
+        moocLink: "https://drive.google.com/file/d/1EMFO4FO-fV_aoUioAc7EIP9bweh7jOF1/view?usp=sharing",
     },
     {
         title: "Summer Analytics'24",
-        cardImage: "assets/images/education-page/Incubate.png",
-        moocLink: "https://drive.google.com/file/d/1Y4_FpqvBCekKva4SRm0cAObQITHxPTDy/view?usp=drivesdk",
+        cardImage: "assets/images/education-page/summerAnalytics.png",
+        moocLink: "https://certificate.givemycertificate.com/c/f3cc3516-b3ed-4319-a8ef-812d98264ac0",
     },
-
+    {
+        title: "Machine Learning Workshop",
+        cardImage: "assets/images/education-page/machineLearning.png",
+        moocLink: "https://hyperstack.id/credential/c39e37a3-7f17-4928-85bf-5138e6984387",
+    },
 
 ];
 
 const experience = [{
-        img: "assets/images/education-page/c1.png"
+        img: "assets/images/experience-page/c1.png"
     },
     {
         img: "assets/images/education-page/c2.jpg"

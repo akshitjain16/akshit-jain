@@ -4,7 +4,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
     {
         title: "WebVista",
-        cardImage: "assets/images/project-page/b2b-platform.png", // Add correct image path here
+        cardImage: "assets/images/project-page/WebVista.png", // Add correct image path here
         description: "A B2B Platform for Agency Management & Website Builder built using Next.js 14, Tailwind, Stripe, TypeScript, and Clerk for managing agencies and building websites.",
         tag: "B2B",
         Previewlink: "", // Add preview link if available
@@ -12,11 +12,11 @@ const projects = [
     },
     {
         title: "Chat-to-PDF App",
-        cardImage: "assets/images/project-page/chat-to-pdf.png", // Add correct image path here
+        cardImage: "assets/images/project-page/chatPDF.png", // Add correct image path here
         description: "An AI-powered application built with Next.js, Clerk, Stripe, Firebase, Tailwind, TypeScript, and Langchain that converts PDFs into chat conversations.",
         tag: "AI",
-        Previewlink: "", // Add preview link if available
-        Githublink: "https://github.com/akshitjain16/chat-to-pdf-app",
+        Previewlink: "https://chat-with-pdf-lake-seven.vercel.app/", // Add preview link if available
+        Githublink: "https://github.com/akshitjain16/chat-with-pdf",
     },
     {
         title: "Guesthouse Management System",
@@ -24,15 +24,15 @@ const projects = [
         description: "An automated system to manage guesthouse operations, bookings, and payments efficiently.",
         tag: "Management",
         Previewlink: "", // Add preview link if available
-        Githublink: "https://github.com/akshitjain16/guesthouse-management-system",
+        Githublink: "https://github.com/akshitjain16/guesthouse",
     },
     {
-        title: "Object Detection Model",
-        cardImage: "assets/images/project-page/object-detection.png", // Add correct image path here
+        title: "Object Detection Models",
+        cardImage: "assets/images/project-page/objectDetection.png", // Add correct image path here
         description: "A machine learning-based model for detecting and classifying objects in real-time using OpenCV and Mask R-CNN.",
         tag: "AI/ML",
         Previewlink: "", // Add preview link if available
-        Githublink: "https://github.com/akshitjain16/object-detection-model",
+        Githublink: "https://github.com/akshitjain16/trained-models",
     },
     {
         title: "Attendance Management System",
@@ -40,7 +40,7 @@ const projects = [
         description: "A web-based system to automate attendance tracking using facial recognition and reports generation.",
         tag: "Automation",
         Previewlink: "", // Add preview link if available
-        Githublink: "https://github.com/akshitjain16/attendance-management-system",
+        Githublink: "https://github.com/akshitjain16/StudyPods-v4.0/tree/main/SP0408",
     },
     
 ];
