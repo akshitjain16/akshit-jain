@@ -8,8 +8,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/your-username/portfolio.svg)](https://github.com/your-username/portfolio/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/your-username/portfolio.svg)](https://github.com/your-username/portfolio/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/your-username/portfolio.svg)](https://github.com/akshitjain16/akshit-jain/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/your-username/portfolio.svg)](https://github.com/akshitjain16/akshit-jain/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -55,6 +55,7 @@ To run the website locally, you'll need:
 
 ```bash
 git clone https://github.com/your-username/portfolio.git
+
 ```
 
 ```bash
